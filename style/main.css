@@ -429,13 +429,13 @@ hr {
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
-    background: url('../tile-sets/presidents/32.jpg');
+    background: url('../tile-sets/bones/32.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
   }
   .tile.tile-64 .tile-inner {
-    background: url('../tile-sets/presidents/64.jpg');
+    background: url('../tile-sets/bones/64.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
@@ -443,7 +443,7 @@ hr {
   }
   .tile.tile-128 .tile-inner {
     font-weight: medium;
-    background: url('../tile-sets/presidents/128.jpg');
+    background: url('../tile-sets/bones/128.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
@@ -452,7 +452,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 12px; } }
   .tile.tile-256 .tile-inner {
-    background: url('../tile-sets/presidents/256.jpg');
+    background: url('../tile-sets/bones/256.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
